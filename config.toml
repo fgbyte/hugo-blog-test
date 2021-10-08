@@ -1,4 +1,4 @@
-baseURL = "docs"
+baseURL = "https://fernandoindesign.github.io/hugo-blog-test/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "PaperMod"
